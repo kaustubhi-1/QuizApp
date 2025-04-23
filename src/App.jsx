@@ -7,6 +7,8 @@ import Awards from './Components/Awards'
 import Demo from './Components/Demo'
 import Testimonials from './Components/Testimonials'
 import Visuals from './Components/Visuals'
+
+import CTASection from './Components/CTASection'
 import Footer from './Components/Footer'
 
 
@@ -22,6 +24,7 @@ function App() {
         <Demo />
         <Visuals />
         <Testimonials />
+        <CTASection />
         <Footer />
       </div>
     </>
